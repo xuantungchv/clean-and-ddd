@@ -1,0 +1,11 @@
+D:\createnew\TungTest\TungTest.Contracts\bin\Debug\net7.0\TungTest.Contracts.deps.json
+D:\createnew\TungTest\TungTest.Contracts\bin\Debug\net7.0\TungTest.Contracts.dll
+D:\createnew\TungTest\TungTest.Contracts\bin\Debug\net7.0\TungTest.Contracts.pdb
+D:\createnew\TungTest\TungTest.Contracts\obj\Debug\net7.0\TungTest.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+D:\createnew\TungTest\TungTest.Contracts\obj\Debug\net7.0\TungTest.Contracts.AssemblyInfoInputs.cache
+D:\createnew\TungTest\TungTest.Contracts\obj\Debug\net7.0\TungTest.Contracts.AssemblyInfo.cs
+D:\createnew\TungTest\TungTest.Contracts\obj\Debug\net7.0\TungTest.Contracts.csproj.CoreCompileInputs.cache
+D:\createnew\TungTest\TungTest.Contracts\obj\Debug\net7.0\TungTest.Contracts.dll
+D:\createnew\TungTest\TungTest.Contracts\obj\Debug\net7.0\refint\TungTest.Contracts.dll
+D:\createnew\TungTest\TungTest.Contracts\obj\Debug\net7.0\TungTest.Contracts.pdb
+D:\createnew\TungTest\TungTest.Contracts\obj\Debug\net7.0\ref\TungTest.Contracts.dll

@@ -1,0 +1,15 @@
+D:\createnew\TungTest\TungTest.Infrastructure\bin\Debug\net7.0\TungTest.Infrastructure.deps.json
+D:\createnew\TungTest\TungTest.Infrastructure\bin\Debug\net7.0\TungTest.Infrastructure.dll
+D:\createnew\TungTest\TungTest.Infrastructure\bin\Debug\net7.0\TungTest.Infrastructure.pdb
+D:\createnew\TungTest\TungTest.Infrastructure\obj\Debug\net7.0\TungTest.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\createnew\TungTest\TungTest.Infrastructure\obj\Debug\net7.0\TungTest.Infrastructure.AssemblyInfoInputs.cache
+D:\createnew\TungTest\TungTest.Infrastructure\obj\Debug\net7.0\TungTest.Infrastructure.AssemblyInfo.cs
+D:\createnew\TungTest\TungTest.Infrastructure\obj\Debug\net7.0\TungTest.Infrastructure.csproj.CoreCompileInputs.cache
+D:\createnew\TungTest\TungTest.Infrastructure\obj\Debug\net7.0\TungTest.Infrastructure.dll
+D:\createnew\TungTest\TungTest.Infrastructure\obj\Debug\net7.0\refint\TungTest.Infrastructure.dll
+D:\createnew\TungTest\TungTest.Infrastructure\obj\Debug\net7.0\TungTest.Infrastructure.pdb
+D:\createnew\TungTest\TungTest.Infrastructure\obj\Debug\net7.0\ref\TungTest.Infrastructure.dll
+D:\createnew\TungTest\TungTest.Infrastructure\bin\Debug\net7.0\TungTest.Application.dll
+D:\createnew\TungTest\TungTest.Infrastructure\bin\Debug\net7.0\TungTest.Application.pdb
+D:\createnew\TungTest\TungTest.Infrastructure\obj\Debug\net7.0\TungTest.Infrastructure.csproj.AssemblyReference.cache
+D:\createnew\TungTest\TungTest.Infrastructure\obj\Debug\net7.0\TungTest.Infrastructure.csproj.CopyComplete

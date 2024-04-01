@@ -1,0 +1,11 @@
+D:\createnew\TungTest\TungTest.Application\bin\Debug\net7.0\TungTest.Application.deps.json
+D:\createnew\TungTest\TungTest.Application\bin\Debug\net7.0\TungTest.Application.dll
+D:\createnew\TungTest\TungTest.Application\bin\Debug\net7.0\TungTest.Application.pdb
+D:\createnew\TungTest\TungTest.Application\obj\Debug\net7.0\TungTest.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\createnew\TungTest\TungTest.Application\obj\Debug\net7.0\TungTest.Application.AssemblyInfoInputs.cache
+D:\createnew\TungTest\TungTest.Application\obj\Debug\net7.0\TungTest.Application.AssemblyInfo.cs
+D:\createnew\TungTest\TungTest.Application\obj\Debug\net7.0\TungTest.Application.csproj.CoreCompileInputs.cache
+D:\createnew\TungTest\TungTest.Application\obj\Debug\net7.0\TungTest.Application.dll
+D:\createnew\TungTest\TungTest.Application\obj\Debug\net7.0\refint\TungTest.Application.dll
+D:\createnew\TungTest\TungTest.Application\obj\Debug\net7.0\TungTest.Application.pdb
+D:\createnew\TungTest\TungTest.Application\obj\Debug\net7.0\ref\TungTest.Application.dll
