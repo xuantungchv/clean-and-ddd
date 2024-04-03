@@ -1,5 +1,5 @@
 using Microsoft.AspNetCore.Mvc;
-using TungTest.Application.Services.AuthenticationServices;
+using TungTest.Application.Services.Authentication;
 using TungTest.Contracts.Authentication;
 
 namespace TungTest.API.Controller;

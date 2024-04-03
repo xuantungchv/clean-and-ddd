@@ -1,8 +1,6 @@
-using TungTest.Application.Services.AuthenticationServices;
-
+using TungTest.Application;
 var builder = WebApplication.CreateBuilder(args);{
-
-builder.Services.AddScoped<IAuthenticationService,AuthenticationService>();
+builder.Services.AddApplication();
 builder.Services.AddControllers();
 }
 // Add services to the container.

@@ -1,4 +1,4 @@
-namespace TungTest.Application.Services.AuthenticationServices;
+namespace TungTest.Application.Services.Authentication;
 public class AuthenticationService : IAuthenticationService
 {
     public AuthenticationResult Login(string email, string passWord)

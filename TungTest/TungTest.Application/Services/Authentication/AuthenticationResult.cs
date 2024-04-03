@@ -1,4 +1,4 @@
-namespace TungTest.Application.Services.AuthenticationServices;
+namespace TungTest.Application.Services.Authentication;
 public record AuthenticationResult(
     Guid id,
     string firstName,
